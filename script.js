@@ -2,7 +2,7 @@
 let sqr = document.querySelectorAll(".square");
  sqr.forEach((square) => {
 square.addEventListener("mouseenter", () => {
-	square.style.backgroundColor = "coffee";
+	square.style.backgroundColor = "#6F4E37";
 						
 	});
 
